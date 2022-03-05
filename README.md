@@ -1,6 +1,6 @@
 # RaspberryPi-NTP-server
 
-- Develop NPT server with GPS module
+- Develop stratum 1: NPT server with GPS module
 
 ### BOM:  
   - Raspberry PI (Zero-W)  
