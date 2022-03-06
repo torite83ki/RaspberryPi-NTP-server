@@ -27,7 +27,7 @@
 
 ### Reference  
 
-https://gpsd.gitlab.io/gpsd/
-https://gpsd.gitlab.io/gpsd/gpsd-time-service-howto.html
+https://gpsd.gitlab.io/gpsd/  
+https://gpsd.gitlab.io/gpsd/gpsd-time-service-howto.html  
 
 
