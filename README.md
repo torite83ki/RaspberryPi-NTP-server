@@ -32,5 +32,5 @@ https://gpsd.gitlab.io/gpsd/
 https://gpsd.gitlab.io/gpsd/gpsd-time-service-howto.html  
 
 
-![Overview](DSC_0589.PNG)
-![Zoomup](DSC_0591.PNG)
+![Overview](DSC_0589.png)
+![Zoomup](DSC_0591.png)
