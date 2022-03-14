@@ -31,6 +31,12 @@
 https://gpsd.gitlab.io/gpsd/  
 https://gpsd.gitlab.io/gpsd/gpsd-time-service-howto.html  
 
+https://docs.ntpsec.org/latest/ntp_conf.html  
+https://www.eecis.udel.edu/~mills/ntp/html/refclock.html  
+https://www.eecis.udel.edu/~mills/ntp/html/drivers/driver22.html  
+https://www.eecis.udel.edu/~mills/ntp/html/drivers/driver28.html  
+
+
 
 ![Overview](DSC_0589.png)
 ![Zoomup](DSC_0591.png)
