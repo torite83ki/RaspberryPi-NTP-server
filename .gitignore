@@ -1,0 +1,6 @@
+## .gitignore file
+
+## no sync with pic files
+*.png
+*.PNG
+pic/
