@@ -36,7 +36,6 @@ https://www.eecis.udel.edu/~mills/ntp/html/refclock.html
 https://www.eecis.udel.edu/~mills/ntp/html/drivers/driver22.html  
 https://www.eecis.udel.edu/~mills/ntp/html/drivers/driver28.html  
 
-
-
+![Painted](DSC_0766~2.JPG)
 ![Overview](DSC_0589.png)
 ![Zoomup](DSC_0591.png)
