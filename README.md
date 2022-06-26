@@ -35,6 +35,7 @@ https://docs.ntpsec.org/latest/ntp_conf.html
 https://www.eecis.udel.edu/~mills/ntp/html/refclock.html  
 https://www.eecis.udel.edu/~mills/ntp/html/drivers/driver22.html  
 https://www.eecis.udel.edu/~mills/ntp/html/drivers/driver28.html  
+https://m.youtube.com/watch?v=16xHIBmul_o&list=PLX2gX-ftPVXXGdn_8m2HCIJS7CfKMCwol
 
 ![Painted](DSC_0766~2.JPG)
 ![Overview](DSC_0589.png)
