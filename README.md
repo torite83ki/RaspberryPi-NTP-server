@@ -37,6 +37,9 @@ https://www.eecis.udel.edu/~mills/ntp/html/drivers/driver22.html
 https://www.eecis.udel.edu/~mills/ntp/html/drivers/driver28.html  
 https://m.youtube.com/watch?v=16xHIBmul_o&list=PLX2gX-ftPVXXGdn_8m2HCIJS7CfKMCwol
 
+![Painted2](DSC_0796.JPG)
 ![Painted](DSC_0766~2.JPG)
 ![Overview](DSC_0589.png)
 ![Zoomup](DSC_0591.png)
+
+
